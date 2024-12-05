@@ -1,14 +1,17 @@
 {
   "index.qmd": {
-    "index.html": "df33f079"
+    "index.html": "df33f079",
+    "index.tex": "5d99f04a"
   },
   "intro.qmd": {
-    "intro.html": "6f338fe4"
+    "intro.html": "6f338fe4",
+    "intro.tex": "cb6b5f6f"
   },
   "summary.qmd": {
     "summary.html": "c50bb633"
   },
   "references.qmd": {
-    "references.html": "021da751"
+    "references.html": "021da751",
+    "references.tex": "2b06cb27"
   }
 }
